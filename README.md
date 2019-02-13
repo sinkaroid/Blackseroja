@@ -55,3 +55,5 @@ You can add as you like, but some of them:
 * [Bypasser] - Bypass DF or etc
 * [Summon] - Call your fav webtools ( u can change it )
 * [About] - About this shell, sourcecode, and previous coder.
+
+FEEL FREE DECODE / CHANGE EVERYTHING OR WHAT U WANT.
